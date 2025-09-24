@@ -35,5 +35,5 @@ struct ARContentView : View {
 }
 
 #Preview {
-    ContentView()
+    ARContentView()
 }
