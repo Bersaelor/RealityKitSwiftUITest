@@ -8,7 +8,7 @@
 import SwiftUI
 import RealityKit
 
-struct ContentView : View {
+struct ARContentView : View {
 
     var body: some View {
         RealityView { content in
@@ -28,7 +28,6 @@ struct ContentView : View {
             content.add(anchor)
 
             content.camera = .spatialTracking
-
         }
         .edgesIgnoringSafeArea(.all)
     }

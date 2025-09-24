@@ -27,6 +27,7 @@
 		E11422B12E83F0B700D11C14 /* RealityKitTest.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = RealityKitTest.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		E11422BE2E83F0B800D11C14 /* RealityKitTestTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = RealityKitTestTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		E11422C82E83F0B800D11C14 /* RealityKitTestUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = RealityKitTestUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		E11422DF2E83F49100D11C14 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
@@ -79,6 +80,7 @@
 				E11422C12E83F0B800D11C14 /* RealityKitTestTests */,
 				E11422CB2E83F0B800D11C14 /* RealityKitTestUITests */,
 				E11422B22E83F0B700D11C14 /* Products */,
+				E11422DF2E83F49100D11C14 /* README.md */,
 			);
 			sourceTree = "<group>";
 		};
